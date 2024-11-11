@@ -88,13 +88,8 @@ conda install pip
 pip install -r requirements.txt
 ```
 
-## 5. Team Members<a class="anchor" id="team-members"></a>
-
-| Name                                                                                        |  Email              
-|---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
-| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
-| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
+Trello Link
+https://trello.com/invite/b/671b2ec255f42682df1a1a7f/ATTIe60122d9eb6d5d4776cc8ebc65dd4286D81B4668/exploreai-regression-project
 
 
 
